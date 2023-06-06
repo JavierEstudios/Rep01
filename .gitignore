@@ -1,0 +1,5 @@
+# ignorando ficheros .txt
+*.txt
+
+# ignorando ficheros .jpg
+*.jpg
